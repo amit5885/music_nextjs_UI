@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Music Theory",
+      "slug": "introduction-to-music-theory",
+      "description": "Learn the fundamental concepts of music theory, including scales, chords, and harmony, to build a strong foundation for understanding music.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/course/musicTheory.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar for Beginners",
+      "slug": "guitar-for-beginners",
+      "description": "A beginner-friendly course that covers the basics of playing the guitar, from tuning to simple chords and strumming patterns.",
+      "price": 29.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/course/guitar.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Music Production",
+      "slug": "advanced-music-production",
+      "description": "Take your music production skills to the next level with advanced techniques in mixing, mastering, and digital audio workstations (DAWs).",
+      "price": 79.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/course/musicProduction.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Piano Fundamentals",
+      "slug": "piano-fundamentals",
+      "description": "Master the basic techniques of playing the piano, from reading sheet music to playing your first songs and understanding musical patterns.",
+      "price": 39.99,
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "/course/piano.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Music Composition and Arrangement",
+      "slug": "music-composition-and-arrangement",
+      "description": "Learn how to compose original music and arrange it for different instruments, enhancing your creativity and understanding of musical structures.",
+      "price": 59.99,
+      "instructor": "Carlos Garcia",
+      "isFeatured": true,
+      "image": "/course/musicComposition.jpeg"
+    }
+  ]
+}
