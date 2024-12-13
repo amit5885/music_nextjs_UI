@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { BackgroundGradient } from "./ui/background-gradient";
-import Image from "next/image";
 import CourseData from "../data/music_courses.json";
 import Link from "next/link";
 
